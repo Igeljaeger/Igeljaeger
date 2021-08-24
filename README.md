@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me: igeljaeger@pm.me via email, @igel:jaeger.website via matrix.
 
-If you would like to donate to me, feel free to do so via either of these:
+If you would like to donate to me, feel free to do so via one of these:
 
 IOTA aka MIOTA (no fees!): 
 iota1qrq2tp5qhnrlxj4lkqcl322mfx6fvmfsh6s79g5ap4nnfhyu4uxwgkem2rx
