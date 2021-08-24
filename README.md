@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Igeljaeger
-- 👀 I’m interested in selfhosting absolutely everything.
-- 🌱 I’m currently learning docker, ansible and automation in general.
-- 💞️ I’m looking to collaborate on automation.
-- 📫 How to reach me: igeljaeger@pm.me via email, @igel:jaeger.website via matrix.
+- Hi, I’m @Igeljaeger
+- I’m interested in selfhosting absolutely everything.
+- I’m currently learning docker, ansible and automation in general.
+- How to reach me: igeljaeger@pm.me via email, @igel:jaeger.website via matrix.
 
 If you would like to donate to me, feel free to do so via one of these:
 - IOTA aka MIOTA (no fees!): 
