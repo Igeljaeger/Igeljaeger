@@ -1,5 +1,5 @@
 - Hi, I’m @Igeljaeger
-- I’m interested in selfhosting absolutely everything.
+- I’m interested in self-hosting absolutely everything.
 - I’m currently learning docker, ansible and automation in general.
 - How to reach me: igeljaeger@pm.me via email, @igel:jaeger.website via matrix.
 
